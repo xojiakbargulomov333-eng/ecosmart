@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 # CONFIGURATION
 # ============================================
 
-BOT_TOKEN = "7892538649:AAEM6rZIMfsqIW5Y1GCDqbb3vTx8R69A9xM"
+BOT_TOKEN = "7892538649:AAG3BvA6NfLoABcvUdAJ-nAgUAesrNmYm00"
 
 # Foydalanuvchi ma'lumotlar bazasi (Simulyatsiya)
 user_data = {}
@@ -173,3 +173,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
